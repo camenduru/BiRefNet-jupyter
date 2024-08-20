@@ -18,6 +18,7 @@ https://arxiv.org/abs/2401.03407
 https://www.birefnet.top/
 
 ### 🖼 Output
+![Screenshot 2024-08-20 184555](https://github.com/user-attachments/assets/56fa48e9-f1b2-44e2-bbbf-34517f9a7108)
 
 ### 🏢 Sponsor
 https://runpod.io
