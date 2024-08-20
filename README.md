@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/BiRefNet-jupyter/blob/main/BiRefNet_jupyter.ipynb) | MeshAnythingV2_jupyter (Pro Colab 😭 FlashAttention only supports Ampere GPUs or newer. )
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/BiRefNet-jupyter/blob/main/BiRefNet_jupyter.ipynb) | BiRefNet_jupyter
 
 ### 🧬 Code
 https://github.com/ZhengPeng7/BiRefNet
